@@ -1,5 +1,25 @@
-// Settings in here override those in "Default/Preferences.sublime-settings",
-// and are overridden in turn by file type specific settings.
 {
-	
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"font_face": "Ubuntu Mono",
+	"font_options": "subpixel_antialias",
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }
