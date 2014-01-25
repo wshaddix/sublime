@@ -18,8 +18,9 @@
 	"scroll_past_end": true,
 	"tab_completion": false,
 	"tab_size": 4,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"dartsdk_path" : "/home/wshaddix/Downloads/dart-sdk"
 }
